@@ -30,6 +30,7 @@ title: Quiz MotoGP 2026
 <label><input type="radio" name="q2" value="silverstone"> Ça me motive, comme à Silverstone</label>
 <label><input type="radio" name="q2" value="barcelona"> Je pars en slicks, comme un vrai à Barcelone</label>
   </div>
+  <br>
 
 
   <div class="question">
@@ -40,6 +41,7 @@ title: Quiz MotoGP 2026
 <label><input type="radio" name="q3" value="misano"> Misano – Technique, mais piégeux</label>
 <label><input type="radio" name="q3" value="portimao"> Portimão – C'est un saut, pas un virage !</label>
   </div>
+  <br>
 
 
   <div class="question">
@@ -50,6 +52,7 @@ title: Quiz MotoGP 2026
 <label><input type="radio" name="q4" value="silverstone"> Ça me motive, comme à Silverstone</label>
 <label><input type="radio" name="q4" value="barcelona"> Je pars en slicks, comme un vrai à Barcelone</label>
   </div>
+  <br>
 
 
   <div class="question">
@@ -60,6 +63,7 @@ title: Quiz MotoGP 2026
 <label><input type="radio" name="q5" value="misano"> Misano – Technique, mais piégeux</label>
 <label><input type="radio" name="q5" value="portimao"> Portimão – C'est un saut, pas un virage !</label>
   </div>
+  <br>
 
 
   <div class="question">
@@ -70,6 +74,7 @@ title: Quiz MotoGP 2026
 <label><input type="radio" name="q6" value="silverstone"> Ça me motive, comme à Silverstone</label>
 <label><input type="radio" name="q6" value="barcelona"> Je pars en slicks, comme un vrai à Barcelone</label>
   </div>
+  <br>
 
 
   <div class="question">
@@ -80,6 +85,7 @@ title: Quiz MotoGP 2026
 <label><input type="radio" name="q7" value="misano"> Misano – Technique, mais piégeux</label>
 <label><input type="radio" name="q7" value="portimao"> Portimão – C'est un saut, pas un virage !</label>
   </div>
+  <br>
 
 
   <div class="question">
@@ -90,6 +96,7 @@ title: Quiz MotoGP 2026
 <label><input type="radio" name="q8" value="silverstone"> Ça me motive, comme à Silverstone</label>
 <label><input type="radio" name="q8" value="barcelona"> Je pars en slicks, comme un vrai à Barcelone</label>
   </div>
+  <br>
 
 
   <div class="question">
@@ -100,6 +107,7 @@ title: Quiz MotoGP 2026
 <label><input type="radio" name="q9" value="misano"> Misano – Technique, mais piégeux</label>
 <label><input type="radio" name="q9" value="portimao"> Portimão – C'est un saut, pas un virage !</label>
   </div>
+<br>
 
 
   <div class="question">
@@ -110,6 +118,7 @@ title: Quiz MotoGP 2026
 <label><input type="radio" name="q10" value="silverstone"> Ça me motive, comme à Silverstone</label>
 <label><input type="radio" name="q10" value="barcelona"> Je pars en slicks, comme un vrai à Barcelone</label>
   </div>
+  <br>
 
 
   <div class="question">
@@ -120,6 +129,7 @@ title: Quiz MotoGP 2026
 <label><input type="radio" name="q11" value="misano"> Misano – Technique, mais piégeux</label>
 <label><input type="radio" name="q11" value="portimao"> Portimão – C'est un saut, pas un virage !</label>
   </div>
+  <br>
 
 
   <div class="question">
@@ -130,6 +140,7 @@ title: Quiz MotoGP 2026
 <label><input type="radio" name="q12" value="silverstone"> Ça me motive, comme à Silverstone</label>
 <label><input type="radio" name="q12" value="barcelona"> Je pars en slicks, comme un vrai à Barcelone</label>
   </div>
+  <br>
 
 
   <div class="question">
@@ -140,6 +151,7 @@ title: Quiz MotoGP 2026
 <label><input type="radio" name="q13" value="misano"> Misano – Technique, mais piégeux</label>
 <label><input type="radio" name="q13" value="portimao"> Portimão – C'est un saut, pas un virage !</label>
   </div>
+<br>
 
 
   <div class="question">
@@ -150,6 +162,7 @@ title: Quiz MotoGP 2026
 <label><input type="radio" name="q14" value="silverstone"> Ça me motive, comme à Silverstone</label>
 <label><input type="radio" name="q14" value="barcelona"> Je pars en slicks, comme un vrai à Barcelone</label>
   </div>
+  <br>
 
 
   <div class="question">
@@ -160,6 +173,7 @@ title: Quiz MotoGP 2026
 <label><input type="radio" name="q15" value="misano"> Misano – Technique, mais piégeux</label>
 <label><input type="radio" name="q15" value="portimao"> Portimão – C'est un saut, pas un virage !</label>
   </div>
+  <br>
 
 
   <div class="question">
@@ -170,6 +184,7 @@ title: Quiz MotoGP 2026
 <label><input type="radio" name="q16" value="silverstone"> Ça me motive, comme à Silverstone</label>
 <label><input type="radio" name="q16" value="barcelona"> Je pars en slicks, comme un vrai à Barcelone</label>
   </div>
+  <br>
 
 
   <div class="question">
@@ -180,6 +195,7 @@ title: Quiz MotoGP 2026
 <label><input type="radio" name="q17" value="misano"> Misano – Technique, mais piégeux</label>
 <label><input type="radio" name="q17" value="portimao"> Portimão – C'est un saut, pas un virage !</label>
   </div>
+  <br>
 
 
   <div class="question">
@@ -190,6 +206,7 @@ title: Quiz MotoGP 2026
 <label><input type="radio" name="q18" value="silverstone"> Ça me motive, comme à Silverstone</label>
 <label><input type="radio" name="q18" value="barcelona"> Je pars en slicks, comme un vrai à Barcelone</label>
   </div>
+<br>
 
 
   <div class="question">
@@ -200,6 +217,7 @@ title: Quiz MotoGP 2026
 <label><input type="radio" name="q19" value="misano"> Misano – Technique, mais piégeux</label>
 <label><input type="radio" name="q19" value="portimao"> Portimão – C'est un saut, pas un virage !</label>
   </div>
+  <br>
 
 
   <div class="question">
@@ -210,6 +228,7 @@ title: Quiz MotoGP 2026
 <label><input type="radio" name="q20" value="silverstone"> Ça me motive, comme à Silverstone</label>
 <label><input type="radio" name="q20" value="barcelona"> Je pars en slicks, comme un vrai à Barcelone</label>
   </div>
+  <br>
 
 
   <div class="question">
@@ -220,6 +239,7 @@ title: Quiz MotoGP 2026
 <label><input type="radio" name="q21" value="misano"> Misano – Technique, mais piégeux</label>
 <label><input type="radio" name="q21" value="portimao"> Portimão – C'est un saut, pas un virage !</label>
   </div>
+  <br>
 
 
   <div class="question">
@@ -230,6 +250,7 @@ title: Quiz MotoGP 2026
 <label><input type="radio" name="q22" value="silverstone"> Ça me motive, comme à Silverstone</label>
 <label><input type="radio" name="q22" value="barcelona"> Je pars en slicks, comme un vrai à Barcelone</label>
   </div>
+  <br>
 
 
   <div class="question">
@@ -240,6 +261,7 @@ title: Quiz MotoGP 2026
 <label><input type="radio" name="q23" value="misano"> Misano – Technique, mais piégeux</label>
 <label><input type="radio" name="q23" value="portimao"> Portimão – C'est un saut, pas un virage !</label>
   </div>
+  <br>
 
 
   <div class="question">
@@ -250,6 +272,7 @@ title: Quiz MotoGP 2026
 <label><input type="radio" name="q24" value="silverstone"> Ça me motive, comme à Silverstone</label>
 <label><input type="radio" name="q24" value="barcelona"> Je pars en slicks, comme un vrai à Barcelone</label>
   </div>
+  <br>
 
 
   <div class="question">
@@ -260,6 +283,7 @@ title: Quiz MotoGP 2026
 <label><input type="radio" name="q25" value="misano"> Misano – Technique, mais piégeux</label>
 <label><input type="radio" name="q25" value="portimao"> Portimão – C'est un saut, pas un virage !</label>
   </div>
+<br>
 
 
   <div class="question">
@@ -270,6 +294,7 @@ title: Quiz MotoGP 2026
 <label><input type="radio" name="q26" value="silverstone"> Ça me motive, comme à Silverstone</label>
 <label><input type="radio" name="q26" value="barcelona"> Je pars en slicks, comme un vrai à Barcelone</label>
   </div>
+  <br>
 
 
   <div class="question">
@@ -280,6 +305,7 @@ title: Quiz MotoGP 2026
 <label><input type="radio" name="q27" value="misano"> Misano – Technique, mais piégeux</label>
 <label><input type="radio" name="q27" value="portimao"> Portimão – C'est un saut, pas un virage !</label>
   </div>
+  <br>
 
 
   <div class="question">
@@ -290,6 +316,7 @@ title: Quiz MotoGP 2026
 <label><input type="radio" name="q28" value="silverstone"> Ça me motive, comme à Silverstone</label>
 <label><input type="radio" name="q28" value="barcelona"> Je pars en slicks, comme un vrai à Barcelone</label>
   </div>
+  <br>
 
 
   <div class="question">
@@ -300,6 +327,7 @@ title: Quiz MotoGP 2026
 <label><input type="radio" name="q29" value="misano"> Misano – Technique, mais piégeux</label>
 <label><input type="radio" name="q29" value="portimao"> Portimão – C'est un saut, pas un virage !</label>
   </div>
+  <br>
 
 
   <div class="question">
@@ -310,6 +338,7 @@ title: Quiz MotoGP 2026
 <label><input type="radio" name="q30" value="silverstone"> Ça me motive, comme à Silverstone</label>
 <label><input type="radio" name="q30" value="barcelona"> Je pars en slicks, comme un vrai à Barcelone</label>
   </div>
+  <br>
 
 
   <div class="question">
@@ -320,6 +349,7 @@ title: Quiz MotoGP 2026
 <label><input type="radio" name="q31" value="misano"> Misano – Technique, mais piégeux</label>
 <label><input type="radio" name="q31" value="portimao"> Portimão – C'est un saut, pas un virage !</label>
   </div>
+  <br>
 
 
   <div class="question">
@@ -330,6 +360,7 @@ title: Quiz MotoGP 2026
 <label><input type="radio" name="q32" value="silverstone"> Ça me motive, comme à Silverstone</label>
 <label><input type="radio" name="q32" value="barcelona"> Je pars en slicks, comme un vrai à Barcelone</label>
   </div>
+  <br>
 
 
   <div class="question">
@@ -340,6 +371,7 @@ title: Quiz MotoGP 2026
 <label><input type="radio" name="q33" value="misano"> Misano – Technique, mais piégeux</label>
 <label><input type="radio" name="q33" value="portimao"> Portimão – C'est un saut, pas un virage !</label>
   </div>
+  <br>
 
 
   <div class="question">
@@ -350,6 +382,7 @@ title: Quiz MotoGP 2026
 <label><input type="radio" name="q34" value="silverstone"> Ça me motive, comme à Silverstone</label>
 <label><input type="radio" name="q34" value="barcelona"> Je pars en slicks, comme un vrai à Barcelone</label>
   </div>
+  <br>
 
 
   <div class="question">
@@ -360,6 +393,7 @@ title: Quiz MotoGP 2026
 <label><input type="radio" name="q35" value="misano"> Misano – Technique, mais piégeux</label>
 <label><input type="radio" name="q35" value="portimao"> Portimão – C'est un saut, pas un virage !</label>
   </div>
+  <br>
 
 
   <div class="question">
@@ -370,6 +404,7 @@ title: Quiz MotoGP 2026
 <label><input type="radio" name="q36" value="silverstone"> Ça me motive, comme à Silverstone</label>
 <label><input type="radio" name="q36" value="barcelona"> Je pars en slicks, comme un vrai à Barcelone</label>
   </div>
+<br>
 
 
   <div class="question">
@@ -380,6 +415,7 @@ title: Quiz MotoGP 2026
 <label><input type="radio" name="q37" value="misano"> Misano – Technique, mais piégeux</label>
 <label><input type="radio" name="q37" value="portimao"> Portimão – C'est un saut, pas un virage !</label>
   </div>
+<br>
 
 
   <div class="question">
@@ -390,6 +426,7 @@ title: Quiz MotoGP 2026
 <label><input type="radio" name="q38" value="silverstone"> Ça me motive, comme à Silverstone</label>
 <label><input type="radio" name="q38" value="barcelona"> Je pars en slicks, comme un vrai à Barcelone</label>
   </div>
+  <br>
 
 
   <div class="question">
@@ -400,6 +437,7 @@ title: Quiz MotoGP 2026
 <label><input type="radio" name="q39" value="misano"> Misano – Technique, mais piégeux</label>
 <label><input type="radio" name="q39" value="portimao"> Portimão – C'est un saut, pas un virage !</label>
   </div>
+  <br>
 
 
   <div class="question">
@@ -410,6 +448,7 @@ title: Quiz MotoGP 2026
 <label><input type="radio" name="q40" value="silverstone"> Ça me motive, comme à Silverstone</label>
 <label><input type="radio" name="q40" value="barcelona"> Je pars en slicks, comme un vrai à Barcelone</label>
   </div>
+<br>
 
 
   <div class="question">
@@ -420,6 +459,7 @@ title: Quiz MotoGP 2026
 <label><input type="radio" name="q41" value="misano"> Misano – Technique, mais piégeux</label>
 <label><input type="radio" name="q41" value="portimao"> Portimão – C'est un saut, pas un virage !</label>
   </div>
+<br>
 
 
   <div class="question">
@@ -430,6 +470,7 @@ title: Quiz MotoGP 2026
 <label><input type="radio" name="q42" value="silverstone"> Ça me motive, comme à Silverstone</label>
 <label><input type="radio" name="q42" value="barcelona"> Je pars en slicks, comme un vrai à Barcelone</label>
   </div>
+<br>
 
 
   <div class="question">
@@ -440,6 +481,7 @@ title: Quiz MotoGP 2026
 <label><input type="radio" name="q43" value="misano"> Misano – Technique, mais piégeux</label>
 <label><input type="radio" name="q43" value="portimao"> Portimão – C'est un saut, pas un virage !</label>
   </div>
+<br>
 
 
   <div class="question">
@@ -450,6 +492,7 @@ title: Quiz MotoGP 2026
 <label><input type="radio" name="q44" value="silverstone"> Ça me motive, comme à Silverstone</label>
 <label><input type="radio" name="q44" value="barcelona"> Je pars en slicks, comme un vrai à Barcelone</label>
   </div>
+<br>
 
 
   <div class="question">
@@ -460,6 +503,7 @@ title: Quiz MotoGP 2026
 <label><input type="radio" name="q45" value="misano"> Misano – Technique, mais piégeux</label>
 <label><input type="radio" name="q45" value="portimao"> Portimão – C'est un saut, pas un virage !</label>
   </div>
+<br>
 
 
   <div class="question">
@@ -470,6 +514,7 @@ title: Quiz MotoGP 2026
 <label><input type="radio" name="q46" value="silverstone"> Ça me motive, comme à Silverstone</label>
 <label><input type="radio" name="q46" value="barcelona"> Je pars en slicks, comme un vrai à Barcelone</label>
   </div>
+  <br>
 
 
   <div class="question">
@@ -480,6 +525,7 @@ title: Quiz MotoGP 2026
 <label><input type="radio" name="q47" value="misano"> Misano – Technique, mais piégeux</label>
 <label><input type="radio" name="q47" value="portimao"> Portimão – C'est un saut, pas un virage !</label>
   </div>
+<br>
 
 
   <div class="question">
@@ -490,6 +536,7 @@ title: Quiz MotoGP 2026
 <label><input type="radio" name="q48" value="silverstone"> Ça me motive, comme à Silverstone</label>
 <label><input type="radio" name="q48" value="barcelona"> Je pars en slicks, comme un vrai à Barcelone</label>
   </div>
+<br>
 
 
   <div class="question">
@@ -500,6 +547,7 @@ title: Quiz MotoGP 2026
 <label><input type="radio" name="q49" value="misano"> Misano – Technique, mais piégeux</label>
 <label><input type="radio" name="q49" value="portimao"> Portimão – C'est un saut, pas un virage !</label>
   </div>
+<br>
 
 
   <div class="question">
@@ -510,6 +558,7 @@ title: Quiz MotoGP 2026
 <label><input type="radio" name="q50" value="silverstone"> Ça me motive, comme à Silverstone</label>
 <label><input type="radio" name="q50" value="barcelona"> Je pars en slicks, comme un vrai à Barcelone</label>
   </div>
+<br>
 
   <button type="button" onclick="calculateResult()">Voir mon circuit</button>
 </form>
