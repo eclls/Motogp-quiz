@@ -561,7 +561,7 @@ title: Quiz MotoGP 2026
 <br>
 
   <button onclick="calculateResult()">Voir mon circuit</button>
-</form>
 <div id="result"></div>
+
 </section>
 
