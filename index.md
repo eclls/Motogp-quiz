@@ -7,7 +7,7 @@ title: Quiz MotoGP 2026
 <section style="max-width: 700px; margin: auto; padding: 2rem 1rem;">
 <h1 style="font-size: 2.5rem; color: #cc0000; text-align: center;">🏍️ Quel circuit MotoGP es-tu ?</h1>
 <p style="text-align: center; font-size: 1.1rem; margin-bottom: 2rem;">
-  Réponds à ce quiz pour découvrir le circuit qui te correspond le mieux parmi les 9 mythiques du calendrier européen !
+  Réponds à ce quiz pour découvrir le circuit qui te correspond le mieux parmi ces pistes mythiques !
 </p>
 <form id="quiz-form">
 
