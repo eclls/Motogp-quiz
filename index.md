@@ -19,6 +19,7 @@ title: Quiz MotoGP 2026
 <label><input type="radio" name="q1" value="misano"> Misano – Technique, mais piégeux</label>
 <label><input type="radio" name="q1" value="portimao"> Portimão – C'est un saut, pas un virage !</label>
   </div>
+  <br>
 
 
   <div class="question">
