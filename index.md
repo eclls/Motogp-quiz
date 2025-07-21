@@ -560,8 +560,10 @@ title: Quiz MotoGP 2026
   </div>
 <br>
 
-  <button onclick="calculateResult()">Voir mon circuit</button>
+ <p>
+  <button type="button" onclick="calculateResult()">Voir mon circuit</button>
+</p>
+
 <div id="result"></div>
 
-</section>
 
