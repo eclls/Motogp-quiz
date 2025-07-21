@@ -1,3 +1,10 @@
+window.onload = function () {
+  const button = document.querySelector("button");
+  if (button) {
+    button.addEventListener("click", calculateResult);
+  }
+};
+
 function calculateResult() {
   const answers = document.querySelectorAll('input[type=radio]:checked');
   const scores = {
