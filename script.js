@@ -12,7 +12,6 @@ function calculateResult() {
     }
   });
 
-  // ⚠️ Si aucune réponse n’est cochée
   if (answers.length === 0) {
     document.getElementById("result").innerHTML = "⚠️ Tu n'as sélectionné aucune réponse !";
     return;
